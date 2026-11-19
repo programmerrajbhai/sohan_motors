@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "38792945179",
+    "project_id": "sohan-motors-app",
+    "storage_bucket": "sohan-motors-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38792945179:android:24387f264925a48633e2be",
+        "android_client_info": {
+          "package_name": "com.novatech.sohan_motors"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLrtRbMX7FRfRquFe8PuNX8_jW7bIwHSY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
